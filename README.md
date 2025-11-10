@@ -8,7 +8,3 @@ Um projeto simples em **Python** que implementa o clássico jogo da forca no ter
 - Mostra as letras já descobertas
 - Informa quando o jogador vence ou perde
 
-## Como executar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/hangman.git
